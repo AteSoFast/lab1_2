@@ -114,4 +114,4 @@ void level34(string word)
 			}
 		}
 	}
-}1
+}
